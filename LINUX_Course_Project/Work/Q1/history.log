@@ -1,16 +1,115 @@
-   49  cd ..\ntree .\n
-   50  cd ..
-   51  cd ..
-   52  echo "All files and folders in the repository (recursive):" >> q1_output.txt\ntree . >> q1_output.txt
-   53  brew install tree
-   54  echo "All files and folders in the repository (recursive):" >> q1_output.txt\ntree . >> q1_output.txt
-   55  tree 
-   56  tree >> q1_output.txt
-   57  tree >> q1_output.txt
-   58  cd Linux_Course_Project/Work/Q1
-   59  echo "--------------------------------" >> q1_output.txt
-   60  echo "List of all .sh files under the user folder (~) recursively:" >> q1_output.txt\nfind ~ -type f -name "*.sh" >> q1_output.txt
-   61  clear
-   62  echo "List of all .sh files under the user folder (~) recursively:" >> q1_output.txt\nfind ~/Projects -type f -name "*.sh"\n >> q1_output.txt
-   63  echo "List of all .sh files under the user folder (~) recursively:" >> q1_output.txt\nfind ~/Projects -type f -name "*.sh" >> q1_output.txt
-   64  echo "List of all .sh files under the user folder (~) recursively:" >> q1_output.txt\nfind ~ -type f -name "*.sh" >> q1_output.txt
+git branch
+echo "# PROJECT_COURSE_LINUX" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/Lotem604/PROJECT_COURSE_LINUX.git\
+git push -u origin main
+history -c && history -w
+clear
+> ~/.zsh_history && fc -R\
+
+clear
+> ~/.zsh_history && fc -R
+history -c 
+rm ~/.zsh_history\
+touch ~/.zsh_history
+history
+history -c
+history -p && history -c && rm ~/.zsh_history && touch ~/.zsh_history && clear\
+
+echo "USER DETAILS (macOS):" >> q1_output.txt
+cd Work/Q1
+cd Work
+pwd
+cd Linux_Course_Project
+cd Work
+cd Q1
+cd q1_output.txt
+echo "USER DETAILS (macOS):" >> q1_output.txt
+echo "USER DETAILS (macOS):" >> q1_output.txt
+dscl . -read /Users/"$(whoami)" >> q1_output.txt
+sed -i '' '/^USER DETAILS (macOS):/d' q1_output.txt\
+
+rm q1_output.txt
+touch ./q1_output.txt
+history
+echo Time: $(date) >> q1_output.txt 
+USER=$(whoami)\
+HOME_DIR=$(dscl . -read /Users/"$USER" NFSHomeDirectory | awk '{print $2}')\
+USER_SHELL=$(dscl . -read /Users/"$USER" UserShell | awk '{print $2}')\
+echo "USER DETAILS (macOS): $USER:x:$(id -u):$(id -g):,,,:$HOME_DIR:$USER_SHELL" >> q1_output.txt 
+echo REPO: $(git rev-parse --show-toplevel) >> q1_output.txt\
+
+GITURL="$(git remote get-url origin)"\
+echo "GithubUrl: $GITURL" >> q1_output.txt\
+
+echo "VERSIONID: $(grep '^VERSION_ID=' /etc/os-release | sed 's/.*="\([^"]*\)".*/\1/')" >> q1_output.txt\
+
+echo "VERSIONID: $(sw_vers -productVersion)" >> q1_output.txt\
+
+brew update
+brew install tree
+echo "All files and folders in the repository (recursive):" > q1_output.txt\
+tree . >> q1_output.txt
+echo Time: $(date) >> q1_output.txt 
+USER=$(whoami)\
+HOME_DIR=$(dscl . -read /Users/"$USER" NFSHomeDirectory | awk '{print $2}')\
+USER_SHELL=$(dscl . -read /Users/"$USER" UserShell | awk '{print $2}')\
+echo "USER DETAILS (macOS): $USER:x:$(id -u):$(id -g):,,,:$HOME_DIR:$USER_SHELL" >> q1_output.txt 
+echo REPO: $(git rev-parse --show-toplevel) >> q1_output.txt\
+
+GITURL="$(git remote get-url origin)"\
+echo "GithubUrl: $GITURL" >> q1_output.txt\
+
+echo "VERSIONID: $(grep '^VERSION_ID=' /etc/os-release | sed 's/.*="\([^"]*\)".*/\1/')" >> q1_output.txt\
+
+echo "VERSIONID: $(sw_vers -productVersion)" >> q1_output.txt\
+
+brew update
+brew install tree
+echo "All files and folders in the repository (recursive):" >> q1_output.txt\
+tree . >> q1_output.txt
+echo "--------------------------------" >> q1_output.txt
+echo "List of all .sh files under the user folder (~) recursively:" >> q1_output.txt\
+find ~ -type f -name "*.sh" >> q1_output.txt
+cd ..\
+tree .\
+
+cd ..
+cd ..
+echo "All files and folders in the repository (recursive):" >> q1_output.txt\
+tree . >> q1_output.txt
+brew install tree
+echo "All files and folders in the repository (recursive):" >> q1_output.txt\
+tree . >> q1_output.txt
+tree 
+tree >> q1_output.txt
+tree >> q1_output.txt
+cd Linux_Course_Project/Work/Q1
+echo "--------------------------------" >> q1_output.txt
+echo "List of all .sh files under the user folder (~) recursively:" >> q1_output.txt\
+find ~ -type f -name "*.sh" >> q1_output.txt
+clear
+echo "List of all .sh files under the user folder (~) recursively:" >> q1_output.txt\
+find ~/Projects -type f -name "*.sh"\
+ >> q1_output.txt
+echo "List of all .sh files under the user folder (~) recursively:" >> q1_output.txt\
+find ~/Projects -type f -name "*.sh" >> q1_output.txt
+echo "List of all .sh files under the user folder (~) recursively:" >> q1_output.txt\
+find ~ -type f -name "*.sh" >> q1_output.txt
+history >> history.log
+history
+git add .
+git commit -m "commit2"
+git push -u origin BR_Q1
+git checkout main 
+git merge BR_Q1
+git push origin main
+git log --oneline --graph --decorate --all | tee git_commits.log
+
+history >> history.log
+fc -W ~/.zsh_history\
+
+
