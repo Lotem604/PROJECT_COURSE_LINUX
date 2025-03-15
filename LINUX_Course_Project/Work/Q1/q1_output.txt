@@ -1,0 +1,400 @@
+Time: Sat Mar 15 21:14:11 IST 2025
+USER DETAILS (macOS): lootemtubul:x:501:20:,,,:/Users/lootemtubul:/bin/zsh
+REPO: /Users/lootemtubul/Desktop/project_linux
+GithubUrl: https://github.com/Lotem604/PROJECT_COURSE_LINUX.git
+VERSIONID: 15.0
+.
+├── LINUX_Course_Project
+│   ├── BACKUPS
+│   ├── CODE
+│   │   ├── plant.py
+│   │   └── py1.py
+│   ├── DATA
+│   │   ├── FIle_1.txt
+│   │   ├── File_2.txt
+│   │   ├── img1.jpg
+│   │   ├── img2.jpg
+│   │   ├── img3.jpg
+│   │   └── plants.csv
+│   ├── DOWNLOADS
+│   │   └── LINUX_COURSE_WORK-downloads
+│   │       ├── FIle_1.txt
+│   │       ├── File_2.txt
+│   │       ├── img1.jpg
+│   │       ├── img2.jpg
+│   │       ├── img3.jpg
+│   │       ├── plant.py
+│   │       ├── plants.csv
+│   │       └── py1.py
+│   └── Work
+│       ├── Q1
+│       │   └── q1_output.txt
+│       ├── Q2
+│       ├── Q3
+│       └── Q4
+└── q1_output.txt
+
+12 directories, 18 files
+--------------------------------
+
+List of all .sh files under the user folder (~) recursively:
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/out/vs/base/node/ps.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/out/vs/base/node/terminateProcess.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/out/vs/base/node/cpuUsage.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/node_modules/jschardet/scripts/run-workflow.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/node_modules/jschardet/scripts/show-size-changes.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/terminal-suggest/scripts/update-specs.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/terminal-suggest/scripts/clone-fig.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/terminal-suggest/fixtures/shell-parser/multipleStatements/input.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/terminal-suggest/fixtures/shell-parser/basic/input.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/terminal-suggest/fixtures/shell-parser/variables/input.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/terminal-suggest/fixtures/shell-parser/primaryExpressions/input.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/ms-vscode.js-debug/src/targets/node/terminateProcess.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-empty.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/git-editor-empty.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/git-editor.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/ssh-askpass.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/ssh-askpass-empty.sh
+/Users/lootemtubul/Desktop/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh
+/Users/lootemtubul/Desktop/WebDevCourse/PythonDockerApp/pychartRunner.sh
+/Users/lootemtubul/Desktop/WebDevCourse/DownloadFiles/Scripts/script2.sh
+/Users/lootemtubul/Desktop/WebDevCourse/DownloadFiles/Scripts/script3.sh
+/Users/lootemtubul/Desktop/WebDevCourse/DownloadFiles/Scripts/script4.sh
+/Users/lootemtubul/Desktop/WebDevCourse/DownloadFiles/Scripts/script1.sh
+/Users/lootemtubul/Desktop/WebDevCourse/BashScript/Python/script1_menu.sh
+/Users/lootemtubul/Desktop/WebDevCourse/BashScript/Python/script3_RunPythonWithParams.sh
+/Users/lootemtubul/Desktop/WebDevCourse/BashScript/Python/script2_RunPython.sh
+/Users/lootemtubul/Desktop/WebDevCourse/BashScript/updater2.sh
+/Users/lootemtubul/Desktop/WebDevCourse/BashScript/combine.sh
+/Users/lootemtubul/Desktop/WebDevCourse/ClienApp/server/node_modules/jake/bin/bash_completion.sh
+/Users/lootemtubul/Desktop/WebDevCourse/AppEJS/node_modules/jake/bin/bash_completion.sh
+/Users/lootemtubul/Desktop/WebDevCourse/SqlNode/node_modules/jake/bin/bash_completion.sh
+/Users/lootemtubul/Desktop/WebDevCourse/SqlNode/node_modules/node-gyp/macOS_Catalina_acid_test.sh
+/Users/lootemtubul/Desktop/WebDevCourse/SqlNode/node_modules/node-gyp/gyp/tools/emacs/run-unit-tests.sh
+/Users/lootemtubul/Desktop/WebDevCourse/BashDockerApp/convert_temp.sh
+/Users/lootemtubul/Desktop/WebDevCourse/BashScript2/Script_4_CSV.sh
+/Users/lootemtubul/Desktop/WebDevCourse/BashScript2/Script_3_Install.sh
+/Users/lootemtubul/Desktop/WebDevCourse/BashScript2/Script_2_Method.sh
+/Users/lootemtubul/Desktop/WebDevCourse/BashScript2/Script_1_iterateFiles.sh
+/Users/lootemtubul/Desktop/WebDevCourse/TestRepo_1/commit.sh
+/Users/lootemtubul/Desktop/WebDevCourse/SQL/node_modules/node-gyp/macOS_Catalina_acid_test.sh
+/Users/lootemtubul/Desktop/WebDevCourse/SQL/node_modules/node-gyp/gyp/tools/emacs/run-unit-tests.sh
+/Users/lootemtubul/Library/Application Support/Code/User/workspaceStorage/df7f2b6710db8206b338f4b968517839/redhat.java/jdt_ws/PythonDockerApp_105eec02/bin/pychartRunner.sh
+/Users/lootemtubul/Library/Application Support/Code/User/workspaceStorage/df7f2b6710db8206b338f4b968517839/redhat.java/ss_ws/PythonDockerApp_105eec02/bin/pychartRunner.sh
+/Users/lootemtubul/Library/Application Support/Code/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/jake/bin/bash_completion.sh
+/Users/lootemtubul/Library/Application Support/Code/User/globalStorage/ms-edgedevtools.vscode-edge-devtools/node_modules/lockfile/gen-changelog.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-420c94ab/tctd.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-420c94ab/hL4q.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-420c94ab/GKIB.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-420c94ab/iwnT.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-420c94ab/VbWl.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-420c94ab/0Gc6.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-420c94ab/v8jD.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-420c94ab/1N0I.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/480c820/Hewn.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/480c820/KGHC.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/480c820/je4H.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/1NGR.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/DPd1.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/iO02.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/qdXi.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/hxSZ.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/zlCj.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/rYwH.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/LcYf.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/G55t.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/lM25.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/GCGk.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/8a0m.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/Nw92.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/tAMl.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/mcYJ.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/dUwF.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/sZBf.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/eWSD.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/GGxk.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/I9dF.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/lQGC.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/oQNS.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e8ce4/dcNP.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332da426/tOAA.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332da426/zneQ.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332da426/HdOv.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332da426/Go5o.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-52d50afe/9J32.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-52d50afe/8NGj.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-52d50afe/15E1.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-52d50afe/SP82.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e1885/y4k7.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e1885/DoiP.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332e1885/z5KZ.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/1csW.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/a5Ly.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/0azY.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/52q2.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/oMCC.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/r58b.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/ipWJ.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/dvw4.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/H6V1.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/hsAN.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/glik.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/Qo34.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/tqEg.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-1c0f6151/dSY7.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-3b555b88/HRkA.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-3b555b88/iszm.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-3b555b88/5sJf.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/68ff7274/PKoJ.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/68ff7274/kZU4.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-2e50bef8/Fxtv.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-2e50bef8/OnbD.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-2e50bef8/egWD.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-2e50bef8/yRAn.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-2e50bef8/k5YW.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-2e50bef8/r6Lu.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-2e50bef8/69wF.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/a6ed412/9f7A.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/a6ed412/r4sd.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/a6ed412/vZbR.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/a6ed412/fpjS.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/a6ed412/KePa.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/a6ed412/rGyP.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/a6ed412/ZxYA.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/1284dbdc/NDGD.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/1284dbdc/XBMd.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/1284dbdc/w5GA.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/1284dbdc/RJyl.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/214f14b/ptjx.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/214f14b/tjNW.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/214f14b/KSBZ.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/214f14b/yS6t.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/214f14b/rTP3.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332d2fc7/shjt.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332d2fc7/rGb3.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-332d2fc7/Dh4A.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-454e79d0/LpZ4.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-454e79d0/jGkN.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-454e79d0/isip.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/-454e79d0/1lds.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/2be614a9/eyVk.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/2be614a9/44kP.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/2be614a9/LTD3.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/2be614a9/1Ols.sh
+/Users/lootemtubul/Library/Application Support/Code/User/History/2be614a9/WAFN.sh
+/Users/lootemtubul/Library/Caches/JetBrains/WebStorm2024.2/tmp/intellij-ssh-askpass-local.sh
+/Users/lootemtubul/Library/Caches/JetBrains/WebStorm2024.2/tmp/intellij-git-askpass-local.sh
+/Users/lootemtubul/Library/Caches/JetBrains/WebStorm2024.2/tmp/intellij-git-editor-local.sh
+/Users/lootemtubul/PycharmProjects/pythonProject/.venv/lib/python3.12/site-packages/tqdm/completion.sh
+/Users/lootemtubul/Applications/PyCharm Professional Edition.app/Contents/bin/remote-dev-server.sh
+/Users/lootemtubul/Applications/PyCharm Professional Edition.app/Contents/bin/inspect.sh
+/Users/lootemtubul/Applications/PyCharm Professional Edition.app/Contents/bin/ltedit.sh
+/Users/lootemtubul/Applications/PyCharm Professional Edition.app/Contents/bin/format.sh
+/Users/lootemtubul/Applications/PyCharm Professional Edition.app/Contents/plugins/remote-dev-server/bin/launcher.sh
+/Users/lootemtubul/Applications/PyCharm Professional Edition.app/Contents/plugins/python-ce/helpers/pydev/pydevd_attach_to_process/linux_and_mac/compile_mac.sh
+/Users/lootemtubul/Applications/PyCharm Professional Edition.app/Contents/plugins/python-ce/helpers/pydev/pydevd_attach_to_process/linux_and_mac/compile_linux_aarch64.sh
+/Users/lootemtubul/Applications/PyCharm Professional Edition.app/Contents/plugins/python-ce/helpers/pydev/pydevd_attach_to_process/linux_and_mac/compile_linux.sh
+/Users/lootemtubul/Applications/PyCharm Professional Edition.app/Contents/plugins/python-ce/helpers/typeshed/scripts/sync_tensorflow_protobuf_stubs.sh
+/Users/lootemtubul/Applications/PyCharm Professional Edition.app/Contents/plugins/python-ce/helpers/typeshed/scripts/generate_proto_stubs.sh
+/Users/lootemtubul/Applications/PyCharm Professional Edition.app/Contents/plugins/python-ce/helpers/typeshed/scripts/sync_s2clientprotocol_protobuf_stubs.sh
+/Users/lootemtubul/Applications/IntelliJ IDEA Ultimate.app/Contents/bin/remote-dev-server.sh
+/Users/lootemtubul/Applications/IntelliJ IDEA Ultimate.app/Contents/bin/inspect.sh
+/Users/lootemtubul/Applications/IntelliJ IDEA Ultimate.app/Contents/bin/ltedit.sh
+/Users/lootemtubul/Applications/IntelliJ IDEA Ultimate.app/Contents/bin/format.sh
+/Users/lootemtubul/Applications/IntelliJ IDEA Ultimate.app/Contents/plugins/remote-dev-server/bin/launcher.sh
+/Users/lootemtubul/Applications/WebStorm.app/Contents/bin/remote-dev-server.sh
+/Users/lootemtubul/Applications/WebStorm.app/Contents/bin/inspect.sh
+/Users/lootemtubul/Applications/WebStorm.app/Contents/bin/ltedit.sh
+/Users/lootemtubul/Applications/WebStorm.app/Contents/bin/format.sh
+/Users/lootemtubul/Applications/WebStorm.app/Contents/plugins/remote-dev-server/bin/launcher.sh
+/Users/lootemtubul/Applications/Android Studio.app/Contents/bin/inspect.sh
+/Users/lootemtubul/Applications/Android Studio.app/Contents/bin/ltedit.sh
+/Users/lootemtubul/Applications/Android Studio.app/Contents/bin/studio_safe.sh
+/Users/lootemtubul/Applications/Android Studio.app/Contents/bin/format.sh
+/Users/lootemtubul/Applications/Android Studio.app/Contents/plugins/android-ndk/resources/lldb/android/start_lldb_server.sh
+/Users/lootemtubul/Applications/Rider.app/Contents/tools/profiler/dotTrace.sh
+/Users/lootemtubul/Applications/Rider.app/Contents/tools/profiler/dotMemory.sh
+/Users/lootemtubul/Applications/Rider.app/Contents/bin/remote-dev-server.sh
+/Users/lootemtubul/Applications/Rider.app/Contents/bin/inspect.sh
+/Users/lootemtubul/Applications/Rider.app/Contents/bin/ltedit.sh
+/Users/lootemtubul/Applications/Rider.app/Contents/bin/format.sh
+/Users/lootemtubul/Applications/Rider.app/Contents/plugins/remote-dev-server/bin/launcher.sh
+/Users/lootemtubul/Applications/Rider.app/Contents/lib/ReSharperHost/runtime-dotnet.sh
+/Users/lootemtubul/Applications/Rider.app/Contents/lib/ReSharperHost/Rider.Backend.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/bin/remote-dev-server.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/bin/inspect.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/bin/gdb/mac/aarch64/lib/python3.12/test/ziptestdata/header.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.30/Modules/SquishRunTestCase.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.30/Modules/Squish4RunTestCase.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/bin/ltedit.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/bin/format.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/plugins/clion-radler/tools/profiler/dotTrace.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/plugins/clion-radler/tools/profiler/dotMemory.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/plugins/clion-radler/DotFiles/runtime-dotnet.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/plugins/clion-radler/DotFiles/Rider.Backend.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/plugins/remote-dev-server/bin/launcher.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/plugins/python-ce/helpers/pydev/pydevd_attach_to_process/linux_and_mac/compile_mac.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/plugins/python-ce/helpers/pydev/pydevd_attach_to_process/linux_and_mac/compile_linux_aarch64.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/plugins/python-ce/helpers/pydev/pydevd_attach_to_process/linux_and_mac/compile_linux.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/plugins/python-ce/helpers/typeshed/scripts/sync_tensorflow_protobuf_stubs.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/plugins/python-ce/helpers/typeshed/scripts/generate_proto_stubs.sh
+/Users/lootemtubul/Applications/CLion.app/Contents/plugins/python-ce/helpers/typeshed/scripts/sync_s2clientprotocol_protobuf_stubs.sh
+/Users/lootemtubul/.vscode/extensions/ms-vscode-remote.remote-ssh-0.118.0/out/utils/terminateProcess.sh
+/Users/lootemtubul/.vscode/extensions/ms-vscode-remote.remote-ssh-0.118.0/out/install-script/scripts/linux-exec-server-installer.sh
+/Users/lootemtubul/.vscode/extensions/ms-vscode-remote.remote-ssh-0.118.0/out/local-server/askpass.sh
+/Users/lootemtubul/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/install scripts/interprocess-communicator.sh
+/Users/lootemtubul/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/install scripts/determine-linux-distro.sh
+/Users/lootemtubul/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/install scripts/install-linux-prereqs.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/init/pre.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/init/opts.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/init/require.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/init/term-background.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/init/vars.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/init/io.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/getopts_long.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/bashdb-part2.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/dbg-main.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/file.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/validate.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/columnize.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/complete.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/setshow.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/filecache.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/frame.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/stepping.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/msg.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/info.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/help.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/break.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/fns.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/commands.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/unescape.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/run.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/hist.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/cmd-hooks.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/dbg-call.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/journal.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/alias.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/list.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/sig.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/shell.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/save-restore.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/sort.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/display.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/action.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/hook.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/processor.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/lib/subcmd.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/condition.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/file.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/kill.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/warranty.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/args.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/program.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/stack.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/watchpoints.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/source.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/breakpoints.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/signals.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/files.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/functions.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/line.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/variables.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/handle.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info_sub/display.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/disable.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/continue.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/examine.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/pwd.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/step.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/complete.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/search.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/debug.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/frame.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/load.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/enable.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/listsize.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/warranty.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/autoeval.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/args.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/basename.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/debug.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/width.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/prompt.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/highlight.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/history.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/commands.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/different.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/copying.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/style.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/tty.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/alias.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/editing.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/version.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/directories.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/annotate.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show_sub/autolist.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/info.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/help.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/watch.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/eval.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/finish.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/backtrace.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/next.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/break.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/history.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/commands.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/return.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/source.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/untrace.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/run.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/undisplay.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/show.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/trace.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/listsize.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/autoeval.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/args.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/basename.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/dollar0.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/debug.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/width.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/prompt.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/highlight.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/history.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/different.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/linetrace.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/trace-commands.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/style.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/tty.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/editing.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/showcommand.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/debugging.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/annotate.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/set_sub/autolist.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/delete.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/skip.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/clear.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/log.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/tty.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/alias.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/list.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/signal.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/shell.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/down.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/handle.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/quit.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/export.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/display.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/up.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/action.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/command/edit.sh
+/Users/lootemtubul/.vscode/extensions/rogalmic.bash-debug-0.3.9/bashdb_dir/data/shell.sh
+/Users/lootemtubul/.vscode/extensions/ms-python.debugpy-2025.4.1-darwin-arm64/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/compile_mac.sh
+/Users/lootemtubul/.vscode/extensions/ms-python.debugpy-2025.4.1-darwin-arm64/bundled/libs/debugpy/_vendored/pydevd/pydevd_attach_to_process/linux_and_mac/compile_linux.sh
+/Users/lootemtubul/.vscode/extensions/ms-vscode.js-debug-nightly-2025.3.717/src/targets/node/terminateProcess.sh
+/Users/lootemtubul/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0/version.sh
+/Users/lootemtubul/.vscode/extensions/ritwickdey.liveserver-5.7.9/node_modules/acorn-jsx/node_modules/acorn/bin/update_authors.sh
+/Users/lootemtubul/.vscode/extensions/ms-vscode-remote.remote-containers-0.401.0/scripts/gitAskPass.sh
+/Users/lootemtubul/.vscode/extensions/ms-vscode-remote.remote-containers-0.401.0/scripts/ssh-askpass.sh

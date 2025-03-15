@@ -1,0 +1,16 @@
+   49  cd ..\ntree .\n
+   50  cd ..
+   51  cd ..
+   52  echo "All files and folders in the repository (recursive):" >> q1_output.txt\ntree . >> q1_output.txt
+   53  brew install tree
+   54  echo "All files and folders in the repository (recursive):" >> q1_output.txt\ntree . >> q1_output.txt
+   55  tree 
+   56  tree >> q1_output.txt
+   57  tree >> q1_output.txt
+   58  cd Linux_Course_Project/Work/Q1
+   59  echo "--------------------------------" >> q1_output.txt
+   60  echo "List of all .sh files under the user folder (~) recursively:" >> q1_output.txt\nfind ~ -type f -name "*.sh" >> q1_output.txt
+   61  clear
+   62  echo "List of all .sh files under the user folder (~) recursively:" >> q1_output.txt\nfind ~/Projects -type f -name "*.sh"\n >> q1_output.txt
+   63  echo "List of all .sh files under the user folder (~) recursively:" >> q1_output.txt\nfind ~/Projects -type f -name "*.sh" >> q1_output.txt
+   64  echo "List of all .sh files under the user folder (~) recursively:" >> q1_output.txt\nfind ~ -type f -name "*.sh" >> q1_output.txt
