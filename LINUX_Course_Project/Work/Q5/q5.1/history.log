@@ -1,0 +1,11 @@
+    1  apt update && apt install -y nano
+    2  exit
+    3  cd ./root/
+    4  python3 plant.py
+    5  pip3 install
+    6  pip3 install matplotlib
+    7  python3 plant.py
+    8  apt update && apt install -y imagemagick
+    9  convert --version
+   10  convert *.png +append output.jpg
+   11  history > history.log
