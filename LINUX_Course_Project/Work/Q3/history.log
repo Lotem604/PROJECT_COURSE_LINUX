@@ -1,0 +1,36 @@
+  1  git checkout -b BR_Q3
+  2  cd Work/Q3
+  3  touch menu.sh
+  4  git checkout -b BR_CSV
+  5  chmod +x menu.sh 
+  6  ./menu.sh 
+  7  pip3 install matplotlib
+  8  brew install python
+  9  ./menu.sh 
+  10  history > history.log
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  269  ./menu.sh
+  270  pip install matplotlib\n
+  271  pip3 install matplotlib\n
+  272  which python3\n
+  273  ./menu.sh
+  274  ./menu.sh
+  275  ./menu.sh
+  276  pip list | grep matplotlib\n
+  277  pip install matplotlib\n
+  278  pip3 install matplotlib\n
+  279  brew install python\n
+  280  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  281  pip3 install matplotlib\n
+  282  python3 -c "import matplotlib; print('Matplotlib is installed!')"\n
+  283  history >> history.log
+  284  clear
